@@ -36,6 +36,8 @@ Content-Type: application/json
   "password": "StrongPass@1"
 }
 
+```
+
 ## 🛠️ Tech Stack
 
 - **Java 17**
@@ -46,7 +48,7 @@ Content-Type: application/json
 - **MySQL** (with MySQL Workbench)
 - **Postman** (for API testing)
 
-```
+
 
 ## 📸 Screenshots
 
